@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #fc0fc0;
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer {
+    padding-top: 20px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+footer.links {
+    margin-bottom: 50px;
+}
